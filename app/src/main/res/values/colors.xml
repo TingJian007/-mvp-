@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 背景颜色-->
+    <color name="main_background">#ffffff</color>
+    <!--标题文字颜色-->
+    <color name="title_text_color">#474748</color>
+    <!--输入框提示文字颜色-->
+    <color name="hint_color">#cfcccd</color>
+    <!--按钮背景-->
+    <color name="button_background">#0093ee</color>
+    <!--查询结果标题文字颜色-->
+    <color name="search_title_color">#c4f20625</color>
+</resources>
